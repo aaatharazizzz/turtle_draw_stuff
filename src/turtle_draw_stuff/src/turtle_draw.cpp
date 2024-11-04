@@ -264,9 +264,9 @@ void TurtleDraw::Run() {
             float radius = hypot(
                 pose.x - commands[command_idx].params.revolve.origin_x,
                 pose.y - commands[command_idx].params.revolve.origin_y
-            ) * abs(commands[command_idx].params.revolve.times);
+            );
             auto the_revolution = geometry_msgs::msg::Twist();
-            the_revolution.linear.x = 2 * M_PI * radius;
+            the_revolution.linear.x = 2 * M_PI * radius * abs(commands[command_idx].params.revolve.times);
             the_revolution.angular.z = -2 * M_PI * commands[command_idx].params.revolve.times;//-(2 * M_PI * commands[command_idx].params.revolve.times);
             twist_pub->publish(the_revolution);
             rclcpp::sleep_for(1100ms);
