@@ -1,0 +1,19 @@
+spen 0 0 0 0 1
+tele 2 2
+spen 255 0 0 4 0
+move 2 4
+move 4 4 
+move 4 2
+move 2 2
+
+spen 0 0 0 0 1
+tele 5 5
+spen 0 255 0 4 0
+revl 7 7 1
+
+spen 0 0 0 0 1
+tele 7 1
+spen 0 0 255 4 0
+move 6 4
+move 5 2
+move 7 1

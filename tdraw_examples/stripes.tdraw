@@ -1,0 +1,112 @@
+spen 0 0 0 0 1
+tele 0 0
+
+spen 0 0 0 0 1
+tele 0 1
+spen 0 255 255 10 0
+move 1 0
+
+spen 0 0 0 0 1
+tele 0 2
+spen 0 255 255 10 0
+move 2 0
+
+spen 0 0 0 0 1
+tele 0 3
+spen 0 255 255 10 0
+move 3 0
+
+spen 0 0 0 0 1
+tele 0 4
+spen 0 255 255 10 0
+move 4 0
+
+spen 0 0 0 0 1
+tele 0 5
+spen 0 255 255 10 0
+move 5 0
+
+spen 0 0 0 0 1
+tele 0 6
+spen 0 255 255 10 0
+move 6 0
+
+spen 0 0 0 0 1
+tele 0 7
+spen 0 255 255 10 0
+move 7 0
+
+spen 0 0 0 0 1
+tele 0 8
+spen 0 255 255 10 0
+move 8 0
+
+spen 0 0 0 0 1
+tele 0 9
+spen 0 255 255 10 0
+move 9 0
+
+spen 0 0 0 0 1
+tele 0 10
+spen 0 255 255 10 0
+move 10 0
+
+spen 0 0 0 0 1
+tele 0 11
+spen 0 255 255 10 0
+move 11 0
+
+spen 0 0 0 0 1
+tele 0 11
+spen 0 255 255 10 0
+move 11 11
+
+spen 0 0 0 0 1
+tele 1 10
+spen 0 255 255 10 0
+move 11 10
+
+spen 0 0 0 0 1
+tele 2 9
+spen 0 255 255 10 0
+move 11 9
+
+spen 0 0 0 0 1
+tele 3 8
+spen 0 255 255 10 0
+move 11 8
+
+spen 0 0 0 0 1
+tele 4 7
+spen 0 255 255 10 0
+move 11 7
+
+spen 0 0 0 0 1
+tele 5 6
+spen 0 255 255 10 0
+move 11 6
+
+spen 0 0 0 0 1
+tele 6 5
+spen 0 255 255 10 0
+move 11 5
+
+spen 0 0 0 0 1
+tele 7 4
+spen 0 255 255 10 0
+move 11 4
+
+spen 0 0 0 0 1
+tele 8 3
+spen 0 255 255 10 0
+move 11 3
+
+spen 0 0 0 0 1
+tele 9 2
+spen 0 255 255 10 0
+move 11 2
+
+spen 0 0 0 0 1
+tele 10 1
+spen 0 255 255 10 0
+move 11 1
