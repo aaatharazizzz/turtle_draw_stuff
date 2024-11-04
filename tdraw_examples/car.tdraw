@@ -2,6 +2,9 @@ spen 0 0 0 0 1
 tele 6 7
 
 spen 255 255 255 4 0
+tele 6 7
+move 1 1
+revl 2 2 0.5
 
 move 5 7
 move 3 5

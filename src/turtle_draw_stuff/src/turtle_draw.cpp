@@ -243,10 +243,6 @@ void TurtleDraw::Run() {
             break;
         }
         case CommandType::Move: {
-            float next_bot_angle = atan2(
-                commands[command_idx].params.move.y - pose.y ,
-                commands[command_idx].params.move.x - pose.x
-            );
             auto the_scoot = geometry_msgs::msg::Twist();
             the_scoot.linear.x = commands[command_idx].params.move.x - pose.x;
             the_scoot.linear.y = commands[command_idx].params.move.y - pose.y;
